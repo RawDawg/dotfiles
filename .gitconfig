@@ -1,0 +1,6 @@
+[user]
+	email = david@theofficial.de
+	name = Bettertimes
+[core]
+	autocrlf = false
+	excludesfile = /Users/theOfficial/.gitignore_global
