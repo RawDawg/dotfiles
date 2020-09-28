@@ -131,7 +131,6 @@ export PATH="/usr/local/sbin:$PATH"
 
 # OpenSSL
 export PATH="/usr/local/opt/openssl:$PATH"
-PATH=/Users/theOfficial/.Pokemon-Terminal:$PATH
 
 # WP-CLI
 autoload bashcompinit
